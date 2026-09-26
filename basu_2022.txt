@@ -1,0 +1,1579 @@
+A Reformulated Version of Marx’s Theory of
+Ground-Rent Shows that there Cannot be any
+              Absolute Rent
+                                 Deepankar Basu∗
+                                   June 25, 2022
+
+
+
+          Forthcoming in the Review of Radical Political Economics.
+
+                                       Abstract
+       This paper develops a simple theoretical model to analyze Marx’s the-
+       ory of ground rent. Using the model, I demonstrate two important
+       results. First, if we take capital outlay as exogenously given, then total
+       ground-rent can be decomposed into the three components: differen-
+       tial rent of the first variety (DRI), differential rent of the second variety
+       (DRII), and absolute rent (AR). Second, if we let the amount of capi-
+       tal outlay on each plot of land be determined by the profit-maximizing
+       behaviour of capitalist farmers, then absolute rent becomes zero. Nei-
+       ther low organic composition of capital nor monopoly power of the
+       class of landlords can generate any absolute rent. I conclude that un-
+       der reasonable behavioural assumptions about landlords and capitalist
+       farmers, there will be no absolute rent in a capitalist economy.
+       JEL Codes: B51.
+       Key words: ground rent, differential rent, absolute rent.
+   ∗
+    Department of Economics, UMass Amherst. Email: dbasu@econs.umass.edu. With-
+out implicatiing him in any way in the conclusions of this paper, I would like to thank
+Debarshi Das and Duncan Foley for extensive and continuing discussions on the Marxist
+theory of rent. I would also like to thank three reviewers of RRPE for their insightful
+comments.
+
+
+
+
+                                            1
+1    Introduction
+The theory of ground-rent is an important but relatively under-theorized
+part of Marxist political economy. Part of the reason for the lack of theoret-
+ical development in this area probably arises from the difficulty scholars face
+in clearly and precisely defining the meaning of key terms involved in the
+discussion: ground rent, and the three components into which Marx decom-
+posed it, i.e. differential rent of the first variety (DRI), differential rent of
+the second variety (DRII) and absolute rent (AR). In this paper, I present
+a theoretical model to define ground-rent, to decompose it into DRI, DRII
+and AR, and to analyze in detail the meaning and source of AR.
+    Marx had worked out his theory of ground-rent mainly through numeri-
+cal examples and later scholars have largely followed Marx’s approach. The
+continued use of simple numerical examples and the difficulty of clearly and
+precisely defining key terms involved in the discussion have limited the de-
+velopment of Marx’s theory of ground-rent. While there is broad agreement
+about the definition of ground-rent as such, there is much less agreement
+about the decomposition of ground-rent into its three components: DRI,
+DRII and AR. This paper offers a theoretical framework to address these
+disagreements and potentially move the literature ahead.
+    Two types of disagreements in the extant literature are especially worth
+highlighting. The first significant disagreement relates to different views
+about the existence, meaning and source of absolute rent (Fine, 1979; Ramirez,
+2009; Fine and Filho, 2010). While some scholars view absolute rent as aris-
+ing from the class power (or monopoly power) of landlords (Ramirez, 2009),
+others contend that the cause of absolute rent is the relatively low organic
+composition of capital in agriculture (Fine, 1979, 2019). The theoretical
+framework developed in this paper will be able to throw light on this dis-
+agreement.
+    The second disagreement relates to the meaning of DRI and DRII. In
+addressing this disagreement, it is important to note that there was, for a
+long time, no theoretical framework available to implement the intuitions
+about these two components of differential rent in a unified manner. Part
+of the difficulty in carrying out this decomposition arises from the fact that
+defining DRI and DRII require us to use different benchmarks. While DRI
+is defined with respect to the least-productive plot of land, DRII is defined
+with respect to the least- productive unit of capital. Most scholars, following
+Marx, have addressed DRI and DRII one at a time, but have not been able
+
+                                       2
+to integrate them together into a single theoretical framework (Fine, 1979;
+Fine and Filho, 2010).
+    Das (2018) offered the first coherent theoretical framework to understand
+the three components of ground-rent in a unified manner. In this paper, I
+follow and extend the analysis in Das (2018). In particular, I modify two key
+components of the analysis in Das (2018). Whereas Das (2018) had assumed
+that increments of capital outlay occur in discrete units, I allow capital outlay
+to increase continuously. This is important because it is difficult to justify
+discrete changes in capital outlay. While it is true that agricultural produc-
+tion involve fixed costs that can be lumpy, the variable cost of production is
+likely to vary continuously. Hence, total capital outlay is more realistically
+modeled as varying continuously, rather than in discrete amounts.
+    The second modification is even more important. Where Das (2018) had
+assumed that the amount of capital outlay on each plot of land is given,
+I probe deeper and ask: how much capital will be invested on any plot of
+land? Since plots of land are operated by capitalist farmers, a natural way to
+answer this question is to see what level of capital outlay will maximize the
+capitalist farmer’s profit. In this paper, I show that this modification has far
+reaching consequences. If capitalist farmers choose the level of capital outlay
+to maximize the profit income they earn, then there will be no absolute rent.
+This is the most important result of this paper. In general, I show that
+absolute rent will be zero. The analysis in this paper shows that neither a
+relatively low organic composition of capital in agriculture Fine (1979) nor
+the class power of landlords Ramirez (2009) can generate absolute rent.
+    The overall significance of Marx’s theory of rent, and its clarification
+in this paper, is two fold. On the one hand, it is a component part of
+his theory of the distribution of surplus value in capitalist economies. It
+explains the origin of the source of income of landlords and other resource
+owners as a fragment of the surplus value produced through the exploitation
+of labour. Marx understood ground-rent in a capitalist economy to be a
+part of the surplus value that is appropriated by private owners of non-
+reproducible resources like land (Marx, 1993). Marx argued that use of the
+non-reproducible resource can confer benefits on capitalist producers and
+generate what Marx called ‘surplus profit’, i.e. profit over and above what
+could be earned at the prevailing uniform (average) rate of profit. Therefore,
+private owners of non-reproducible resources can withhold the resource from
+the capitalist producers unless the latter agree to make a monetary payment
+for its use. In fact, in the process of bargaining between capitalists and
+
+                                       3
+resource owners, capitalist producers who wish to use those resources have
+to part with the full amount of the surplus profit. This monetary payment
+is what Marx calls ground-rent. For Marx, therefore, ground-rent is the
+economic form that the monopoly of private ownership of non-reproducible
+resources takes in a capitalist economy, and its monetary worth is the surplus
+profit. While Marx mainly discussed land rent in the context of agricultural
+production, he was clear that his analysis applied to all cases where a private
+monopoly of land ownership obtains. The clearest articulation of the idea
+that rent is surplus profit and that it can be applied widely can be seen from
+the following quotation.
+     Whenever natural forces can be monopolized and give the indus-
+     trialist who make use of them a surplus profit, whether a waterfall,
+     a rich mine, fishing grounds or a well situated building site, the
+     person indicated as the owner of these natural objects, by virtue
+     of his title to a portion of the earth, seizes this surplus profit
+     from the functioning capital in the form of rent. (Marx, 1993,
+     Chapter 46, pp. 908)
+   On the other hand, it also highlights the total irrationality of rent as an
+income stream that derives from the private ownership of a ‘portion of the
+earth’, something which should not be the domain of private property at all.
+     From the standpoint of a higher socio-economic formation, the
+     private property of particular individuals in the earth will appear
+     just as absurd as the private property of one man in other men.
+     Even an entire society, a nation, or all simultaneously existing
+     societies taken together, are not the owners of the earth. They
+     are simply its possessors, its beneficiaries, and have to bequeath
+     it in an improved state to succeeding generations, as boni patres
+     familias. (Marx, 1993, pp. 911).
+    The rest of the paper is organized as follows. In section 2, I discuss
+an example to build intuition and explain key ideas behind Marx’s theory
+of ground-rent, both with exogenous and endogenous capital outlays. The
+discussion of the example is followed by a presentation of Marx’s theory of
+rent in more general terms in the next few sections. In section 3, I discuss
+the set-up for the general analysis and define the technological conditions
+of production. In section 4, I define ground-rent and derive explicit expres-
+sions for its three components when capital outlays are exogenously given:
+
+                                      4
+DRI, DRII, AR. In section 5, I endogenize capital outlays using profit max-
+imising behaviour of capitalists and show that, in such a situation, absolute
+rent will be zero. In section 6, I close the model by determining the price
+of corn by the interaction of demand and supply of the agricultural product.
+The final section concludes the discussion.
+
+
+2     Example
+Before I present my argument in general terms, I would like to discuss an
+example to build intuition. In this example, the agricultural economy is
+composed of just two plots of land– plot 1 and plot 2 – and the agricultural
+output is ‘corn’. The marginal product of capital outlay on each plot declines
+linearly with the level of capital outlay, i.e. as more capital in invested on
+a plot, the extra amount of output produced declines. This is an intuitively
+appealing assumption because there is a fixed factor of production: land. As
+more capital is invested on a given plot of land, output rises but only at a
+declining rate. This is captured by the assumption that the marginal product
+of investment, i.e. the increment of output with each dollar of investment,
+declines as capital investment is increased.
+    For this example, let us assume that the marginal product of capital on
+plot 1 is given by 10 − 3k and on plot 2 by 5 − k, where k denotes capital
+outlay. Note that, on both plots, the marginal product declines with capital
+outlay. Suppose, finally, that total capital outlay on both plots of land is
+2.75 dollars, the economy-wide average rate of profit is 25% and the price of
+corn is 2 dollar per unit.
+    Given this configuration of the agricultural economy, I would like to com-
+pute the amount of ground-rent on both plots and then decompose total
+ground-rent into its three components. I will first discuss a situation where
+the level of capital outlay on both plots of land is given to be 2.75. In the fol-
+lowing sub-section, I will discuss the situation when capitalist farmers choose
+the level of capital outalys to maximize their profit income.
+
+2.1    Exogenous Capital Outlay
+Marginal output as a function of capital outlay is depicted for both plots of
+land in Figure 1. Both graphs have a vertical, broken line at k = 2.75, which
+is the total amount of capital outlay on each plot. This is exogenously given.
+
+
+                                        5
+The marginal product curves give us some useful information. For plot 1,
+the curve starts at a value of 10 units of corn and then declines towards zero
+as more capital is invested; for plot 2, the curve starts at 5 units of corn
+and then, in a similar manner, declines towards zero. The curves intersect at
+k = 2.5. For levels of capital outlay less than 2.5 dollars, plot 1 has higher
+marginal product; for levels of capital outlay that is larger than 2.5 dollars,
+plot 2 has higher marginal product.
+
+2.1.1   Which Plot is More Fertile?
+My first task is to identify the plot that is more fertile. This is necessary
+because ground rent of the first variety (DRI) is related to differential fertility
+of the plots, i.e. a part of the total ground-rent on relatively more fertile plots
+can be identified as DRI (Marx, 1993, chapter 39). I will associate fertility
+of a plot of land with the marginal product of investment on that plot. This
+makes sense because a plot with higher marginal product of investment can
+be intuitively understood to be more fertile. One immediate issue we face
+here is that, as we see in Figure 1, the marginal product declines with the
+level of capital investment. For instance if we chose to use the marginal
+product at 1 dollar of capital outlay to define fertility, then plot 1 would be
+deemed more fertile; if, instead, we chose the marginal product at 2.7 dollar
+of capital outlay to define fertility, then plot 2 would be deemed more fertile.
+Thus, fertility ranking would change as capital outlays change across plots
+of land, rendering any analysis infeasible.
+    To get around this problem and to define a stable fertility ranking among
+plots of land, a ranking that does not change when the level of capital outlays
+change, I will choose to define fertility with the marginal product at zero
+capital outlay. This is the extra amount of output produced when capital
+investment is just increased beyond zero. Intuitively, this definition takes
+us close to what we can understand as the intrinsic fertility of a plot of
+land. If this extra amount of output varies across plots, it must vary because
+of the intrinsic qualities of the plots of land (impacted no doubt by past
+investments). Hence, I will identify plots with higher marginal product at
+zero capital outlay as more fertile than plots with lower marginal product at
+zero capital outlay. Using this convention, we identify plot 1 as more fertile
+than plot 2.
+
+
+
+
+                                        6
+                                           10
+                                           8        F
+
+
+
+
+                                                        Plot 1
+        marginal output (units of corn)
+
+                                           6
+
+
+
+
+                                                    E              G
+                                           4
+
+
+
+
+                                                    D                              H
+                                           2
+
+
+
+
+                                                    C                              I
+                                                                                               Plot 2
+                                                    B   (1+r)/p                    J
+                                                    A                              K
+                                           0
+
+
+
+
+                                                0         1            2               3         4      5
+
+                                                                  capital advanced (dollars)
+
+
+
+Figure 1: Marginal output of capital outlay on two plots of land with different
+fertility when capital outlay is exogenously fixed at 2.75.
+
+
+2.1.2                                     Total Ground-Rent
+I will first find the total amount of ground-rent on the two plots of land.
+According to Marx, total ground-rent is the surplus profit on a plot of land,
+where surplus profit is the total output less the notional amount that would
+have been earned if the capital earned the economy-wide average rate of
+profit (Marx, 1993, chapter 37, 38). On plot 1, total output can be found by
+adding up the marginal outputs associated with all capital outlays between
+0 and 2.75. This is represented in Figure 1 by the area AKIF and is equal
+to 16.16 units of corn. If the total capital invested on this plot had earned
+the economy-wide average rate of profit of 25%, it would produce revenue
+
+
+                                                                           7
+of 2.75 ∗ (1 + 0.25) dollars. Since the price of each unit of corn is 2 dollars
+per unit, this is equivalent to 1.72 units of corn. Hence, surplus profit on
+plot 1 is equal to 14.44(= 16.16 − 1.72) units of corn. Since ground-rent is
+quantitatively equal to surplus profit, we see that the total ground-rent on
+plot 1 is 14.44 units of corn. Using a similar argument, we find that the total
+ground-rent on plot 2 is 7.56 units of corn.
+
+2.1.3   Absolute Rent
+Total ground rent on plot 1 is represented in Figure 1 by the area BJIF , and
+total ground-rent on plot 2 is represented in Figure 1 by the area BJHE.
+We see immediately that the area BJIC is part of the total ground-rent
+on both plots of land. Moreover, this area and the portion of ground-rent
+that it represents, does not get impacted by the declining marginal products
+of capital investments, once total capital outlay is fixed on the two plots of
+land. This leads me to identify this part of total ground-rent as absolute rent
+(AR). The reason for this is that the other two components of ground-rent,
+DRI and DRII, depend, respectively, on fertility differentials and differences
+of capital outlays - both of which will be impacted by the declining marginal
+products (Marx, 1993, chapter 38, 39).
+    At this point, let me highlight an important point. Notice that the height
+of the rectangle BJIC is given by JI. This is equal to the difference between
+KI and KJ. On the one hand, KI represents the marginal product of capital
+on the plot in which it is lowest when total capital outlay is 2.75; on the other
+hand, KJ represents the notional revenue, measured in units of corn, that
+would be earned at the economy-wide average rate of profit for each dollar
+invested. This is given by (1 + r)/p, where r is the economy-wide average
+rate of profit and p is the price of a unit of corn, and can be thought of as the
+opportunity cost of investing capital in agriculture. Hence, the amount of
+absolute rent, being the area of the rectangle BJIC, depends crucially on the
+difference between the lowest marginal product of capital outlay among the
+plots of land and the notional revenue earned by each dollar of investment.
+As this difference falls (rises), AR falls (rises). Using the numbers in Figure 1,
+we get the magnitude of absolute rent, on both plot 1 and plot 2, as 3.09
+units of corn.
+
+
+
+
+                                        8
+2.1.4   Differential Rent
+Let us now turn to plot 1 and compute the two components of differential
+rent. To compute differential rent of the first variety on plot 1, DRI1 , we
+need to quantify the difference in the fertility levels of the two plots. Using
+Figure 1, we see that one way to capture this difference is by the length of the
+segment EF . This is the difference in the marginal product at zero capital
+outlay between plot 1 (more fertile) and plot 2 (less fertile). To use this
+difference in the marginal product at zero capital outlay to compute DRI on
+plot 1, note that, starting with with a value of 10, as the magnitude of capital
+outlay rises on plot 1, its marginal product declines. When capital outlay is
+1.67, the marginal product equals 5, which is exactly equal to the marginal
+product on plot 2 at zero capital outlay. This is represented in Figure 1 by
+the point G.
+    Since differential rent of the first variety arises from fertility differentials,
+I define DRI on plot 1 as being represented by the area EGF in Figure 1.
+This is the extra amount of rent earned on plot 1 due to the higher fertility
+on that plot in comparison to plot 2. Using the numbers in Figure 1, we get
+DRI on plot 1 as 4.17 units of corn. This allows us to now compute DRII
+on plot 1 as total ground-rent less the sum of AR and DRI. Hence, DRII
+on plot 1 is 7.18(= 14.44 − 4.17 − 3.09). On Figure 1, DRII for plot 1 is
+represented by the area CIGE.
+    We can compute the components of differential rent on plot 2 in an anal-
+ogous manner. To start with, note that, by definition, differential rent of
+the first variety on plot 2, DRI2 , is zero. This is because plot 2 has lower
+fertility than plot 1 and cannot have DRI. In fact, plot 2 has been used as
+the reference to compute DRI on plot 1. Thus, there cannot be any DRI on
+plot 2. Since we have already computed total ground rent and absolute rent
+on plot 2, we can get DRII as the difference between them. Hence, DRII on
+plot 2 is 4.47(= 7.56 − 3.09) units of corn.
+    Let me now summarize what I have found. The total ground-rent on plot 1
+and plot 2 are 14.44 and 7.56 units of corn, respectively. The components
+of ground-rent on plot 1 are: DRI1 = 4.17, DRII1 = 7.18, AR1 = 3.09;
+the components of ground-rent on plot 2 are: DRI2 = 0, DRII2 = 4.47,
+AR2 = 3.09.
+
+
+
+
+                                         9
+2.2       Capital Outlay Endogenized
+I will now discuss the determination and decomposition of ground-rent when
+capital outlay is endogenized. Let me start with plot 1 and ask how much
+capital outlay would a profit-maximizing capitalist farmer choose to invest?
+The answer is straightforward. The capitalist farmer will choose a level of
+capital outlay that will maximize her profit. This implies that the chosen
+level of capital outlay will be such that the marginal product of capital is
+exactly equal to (1 + r)/p.1 If she were to choose a level of capital outlay
+that is lower than than this level, then the marginal product of capital would
+be higher than (1 + r)/p. By increasing capital outlay by a small magnitude,
+the capitalist farmer would be able to increase her profit income. On the
+other hand, if the chosen capital outlay was higher than this level, then
+the marginal product of capital would be lower than (1 + r)/p, so that the
+capitalist could reduce her loss by reducing her capital outlay. The only point
+where there would be no incentive for the capitalist to change her level of
+capital outlay would be the level at which the marginal product of capital is
+exactly equal to (1 + r)/p.
+    Using this logic, we can see from Figure 2 that the profit-maximizing level
+of capital outlay on plot 1 would be represented by the point H. At this level
+of capital outlay, the marginal product of capital is exactly equal to (1+r)/p.
+Using the numbers for the example, we find that this level of capital outlay
+is 3.125 dollars. Using the same logic as above, we can see that the profit-
+maximizing level of capital outlay on plot 2 will be represented in Figure 2
+by the point I. Using the numbers for the example, this profit-maximizing
+level of capital outlay on plot 2 is 4.375 dollars.
+    Let us now compute the total ground-rent on the two plots. On plot 1,
+this is represented by the area BHF in Figure 2. Using the numbers for the
+example, total ground-rent on plot 1, when capital outlays is endogenous, is
+given by 14.65 units of corn. On plot 2, total ground-rent is represented by
+the area BIE in Figure 2. Using the numbers for the example, total ground-
+rent on plot 2, when capital outlays is endogenous, is therefore given by 9.57
+units of corn.
+    What is the magnitude of AR? Recall that the magnitude of AR depends
+on the difference between the marginal product of capital on the plot where
+it has the lowest value at its level of capital outlay and the opportunity cost
+of investing in agriculture. When profit-maximizing capitalist farmers choose
+  1
+      Recall that (1 + r)/p is the opportunity cost of investing capital in agriculture.
+
+
+                                              10
+                                        10
+                                        8        F
+
+
+
+
+                                                     Plot 1
+      marginal output (units of corn)
+
+                                        6
+
+
+
+
+                                                 E              G
+                                        4
+                                        2
+
+
+
+
+                                                                                            Plot 2
+                                                 B   (1+r)/p                          H              I
+                                                 A
+                                        0
+
+
+
+
+                                             0         1            2             3           4          5
+
+                                                               capital advanced (dollars)
+
+
+
+Figure 2: Marginal output of capital outlay on two plots of land with different
+fertility when capital outlay is chosen by capitalist farmers to maximize profit
+income.
+
+
+the level of capital outlay to maximize their profit income, it necessarily leads
+to equality of the marginal product of capital on each plot of land and the
+opportunity cost of investing in agriculture. Hence, the difference between
+the marginal product of capital and the opportunity cost of investing in
+agriculture is zero on each plot. This implies that the magnitude of AR is
+zero.
+    What is the magnitude of DRI and DRII on plot 1? From Figure 2, we
+see that DRI on plot 1 is exactly the same as in Figure 1. Hence, DRI on
+plot 1 is 4.17 units of corn. Since total ground-rent on plot 1 is 14.65, this
+immediately tells us that DRII on plot 1 is 10.48(= 14.65 − 4.17) units of
+
+                                                                        11
+corn. In Figure 2, DRI and DRII on plot 1 are represented by the areas
+EGF and BHGE, respectively. What is the magnitude of DRI and DRII on
+plot 2? Just like before, DRI on plot 2 is zero because it is the less fertile plot
+among the two plots that comprise the agricultural economy in this example
+economy. Hence, total ground-rent on plot 2 is exactly equal to DRII. Thus,
+DRII on plot 2 is 9.75 units of corn (the total ground-rent on plot 2). In
+Figure 2, DRII (as also total ground-rent) on plot 2 is represented by the
+areas BIE.
+    Let me now summarize my findings. When capitalist farmers choose the
+level of capital outlay to maximize profit income, the total ground-rent on
+plot 1 and 2 are 14.65 and 9.57 units of corn, respectively. The components
+of ground-rent on plot 1 are: DRI1 = 4.17, DRII1 = 10.48, AR1 = 0;
+the components of ground-rent on plot 2 are: DRI2 = 0, DRII2 = 9.57,
+AR2 = 0. In the next subsections, I present this same argument in more
+general terms.
+
+
+3     Conditions of Production
+3.1    The Set-Up
+I conceive of the economy as being composed of an industrial sector and
+an agricultural sector. The industrial sector is composed of I industries,
+each producing a single product with a given technique of production. The
+agricultural sector produces a homogenous output, called ‘corn’, using land,
+labour, and inputs from industry. I work with the implicit assumption that
+corn is a non-basic product in the following precise sense: corn is not used as
+a direct means of production in any industrial production process. In such
+a scenario, the prices of industrial products are determined independently
+of the conditions of agricultural production. In technical terms, this means
+that the industrial sector forms a decomposable system of equation - which
+determines the prices of the industrial products and the average rate of profit
+(Kurz, 1978, pp. 27). Hence, for the analysis of rent, in this paper, I take the
+prices of industrial products, the wage rate and the economy-wide average
+rate of profit, as exogenously given.
+    In agriculture, following Marx (as stated in the quotation below), I as-
+sume that there are three classes: capitalists, workers and landlords. All
+the agricultural land is owned by the class of landlords. Capitalist orga-
+
+
+                                        12
+nize production of corn by leasing in land from landlords and purchasing the
+labour-power of workers. The lease contract between capitalists and land-
+lords specifies a fixed period of time - one production cycle - for which the
+latter hands over the right to use the relevant plot of land to the capitalist in
+return for a monetary payment known as ground-rent. The labour contract
+between capitalists and workers specifies a fixed period of time - one pro-
+duction cycle - for which the latter gives up the use of her labour-power to
+the capitalist for a monetary payment known as the wage. After production
+is completed, the capitalist sells the corn on the open market to recoup the
+wage and rent payments she made earlier and, in addition, make a profit
+income.
+
+      The presuppositions for the capitalist mode of production [in
+      agriculture] are thus as follows: the actual cultivators are wage-
+      labourers, employed by a capitalist, the farmer, who pursues agri-
+      culture simply as a particular field of exploitation of capital, as an
+      investment of his capital in a particular sphere of production. At
+      certain specified dates, e.g. annually, this capitalist-farmer pays
+      the landowner, the proprietor of the land he exploits, a contrac-
+      tually fixed sum of money ... for the permission to employ his
+      capital in this particular field of production. This sum of money
+      is known as ground-rent, irrespective of whether it is paid for
+      agricultural land, building land, mines, fisheries, forests, etc. It
+      is paid for the entire period for which the landowner has contrac-
+      tually rented the land to the farmer. Marx (1993, pp. 755-756).
+
+3.2    Technology of Production
+Suppose the total available land used in agricultural production is divided
+into N plots and is indexed by the numbers i = 1, 2, . . . , N . Let a subset
+of these plots, indexed by i = 1, 2, . . . , n, be currently in use for agricultural
+production. An important point worth highlighting upfront is that n is a
+function of the price of corn, p, i.e. n = n(p). The reason for this is easy to
+see. As the price of corn rises, some of the previously unused plots of land
+are brought under cultivation because they can now generate ‘surplus profit’
+and hence provide ground-rent. Since plots of land will not be leased out by
+landlords unless they receive positive amount of ground-rent, the number of
+plots that will be used for agricultural cultivation will itself depend on the
+
+                                        13
+price of the agricultural commodity. Thus, the plots of land that are in use
+are indexed by i = 1, 2, . . . , n(p), where the index of the last plot, n(p) is a
+function of p, the price of the agricultural commodity.
+    On the i-th plot of land that is in use, let total capital outlay by the
+capitalist producer of corn be denoted by ki = ci + vi , where ci and vi
+are constant and variable capital respectively, measured in monetary units.
+Here ci refers to the sum of money used by the capitalist to purchase non-
+labour inputs into production, and vi refers to the sum of money used to
+purchase labour-power (for one production cycle). In examples that he works
+with, Marx explicitly specifies the relationship between capital outlay and the
+volume of output on each plot of land. For instance, each row in Table I, II
+and III in Marx (1993, Chapter 39, pp. 791, 794–95) specifies the quantitative
+relationship between capital outlay and output.
+    I express Marx’s numerical examples in a general algebraic form and
+capture the relationship between total capital outlays and the quantity of
+output on the i-th plot with the function, fi (.). I would like to point out
+that what I am using is not a standard production function. In my case,
+following Marx, the monetary value of inputs, and not their real magnitudes,
+enter into the function, fi (.), as inputs. To distinguish my analysis from the
+standard case, where the arguments of the function are real quantities of
+inputs, I therefore call fi (.) a pseudo-production function.
+    I will assume that the collection of pseudo-production functions have
+standard concavity properties and note this explicitly.
+Assumption 1. Output on each plot of land is zero if capital outlay is zero,
+i.e. fi (0) = 0, for all i = 1, 2, . . . , n(p). The quantity of output increases
+with the magnitude of capital outlay, i.e. fi0 (k) > 0 for k ≥ 0; the marginal
+product of capital outlay is always nonnegative and finite, i.e. 0 ≤ fi0 (k) < ∞
+for k ≥ 0; and, the marginal product diminishes with the magnitude of capital
+outlay, i.e. fi00 (k) < 0 for k ≥ 0.
+    Assumption 1 is inspired by classical economics (Pasinetti, 1977, Chap-
+ter 1, Section 3). It has three components. First, agricultural output cannot
+be produced without capital outlay to purchase inputs and labour-power.
+This is easy to justify because production cannot take place without inputs
+and without labour. Second, the marginal product of capital outlay, i.e.
+the extra amount of output produced when capital outlay is increased by a
+small magnitude, is positive. This means that from any given level of capital
+outlay, when capital outlay is increased by a small magnitude, there is an
+
+                                       14
+increase in the amount of output produced. For instance, if capital outlay
+increases from 1 dollars to 1.1 dollars, agricultural output increases by a pos-
+itive amount. Third, the marginal product of capital outlay is a declining
+function of capital outlay. This means that as capital outlay is increased
+from any level, the increment in output associated with a small increase in
+capital outlay itself decreases with the level of capital outlay. For instance,
+the increment in output associated with capital outlay increasing from 2 dol-
+lars to 2.1 dollars is smaller than the increment in output associated with
+capital outlay increasing from 1 dollars to 1.1 dollars.
+    The third assumption is crucial and can be justified as follows. Land
+cannot be produced by labour. Thus, the amount of land in each plot (or
+parcel) is fixed, i.e. it cannot be increased with the use of labour. To capture
+this we can say that land is a non-reproducible resource. Since the amount of
+land on any plot of land is fixed, as more capital is invested on it, the output
+increases but only at a declining rate - as captured in Figure 3.2 The key
+point is that the non-reproducible nature of land imparts to it the property
+of diminishing marginal product of capital outlay.
+
+3.3     Worst-Quality Plot
+A characteristic feature of agricultural production is that the plots of land
+are of unequal ‘quality’ (which we measure with the marginal productivity
+of capital); some plots are more fertile, or have better location, than others
+(Marx, 1993, pp. 789). While it is true that plots of land are of different
+quality, we cannot rank order them by productivity without taking account
+of the amount of capital outlay in each plot, as has been stressed by Sraffian
+scholars (Kurz, 1978).3 Why is this the case? Because the area of each
+plot of land is fixed and the pseudo-production functions are concave by
+Assumption 1, the marginal product of capital outlay can vary across plots
+of land because of different amounts of capital outlay across plots. Since we
+use the marginal product of capital as the measure of land productivity (or its
+quality), there can be rank ordering reversals when capital outlays is allowed
+to vary across plots of land. This is highlighted in Figure 4, where we can see
+that the marginal product curves for the i-th and j-th plots cross over. For
+   2
+    For a similar assumption see Figure 1.4 in Pasinetti (1977, Chapter 1, Section 3).
+   3
+    One of the errors in Ricardo’s analysis of rent was the assumption that plots of land
+could be ordered according to fertility without taking account of capital investment. Marx
+had inherited the same error from Ricardo. (Kurz, 1978, pp. 21)
+
+
+                                           15
+              fi(k), f’i(k)
+
+
+
+
+                                            fi(k)
+
+
+
+
+                                            f’i(k)
+
+
+
+
+                                                          k
+                  O
+
+
+
+Figure 3: This figure depicts the pseudo-production function on th i-th plot
+of land that is in use for agricultural production. The curve fi (k) denotes
+the output, and fi0 (k) denotes the marginal product, both as a function of the
+amount of capital outlay, k.
+
+
+low levels of capital outlay, the j-th plot has higher marginal product, and
+hence, is more ‘productive’; at higher levels of capital outlays, the ordering
+is reversed and the i-th plot has a higher marginal product, and hence, is
+more ‘productive’. This demonstrates that one cannot order plots of land
+according to quality without taking account of capital outlays.
+    In this paper, I will adopt the convention of rank ordering plots of land
+by the marginal product of the very ‘first’ unit of capital outlay. The intu-
+ition for this is that the marginal product of capital at zero capital outlay
+on any plot of land comes closest to capturing the notion of its ‘intrinsic’
+productivity at any point in time. Considering a continuum of changes in
+capital outlay, it gives us the amount of increase in output (of corn) when
+capital outlay is increased from zero to a small positive amount. It is worth
+highlighting that this convention for ordering plots of land is also able to
+capture any productivity that derives from past capital outlays on fixed cap-
+
+
+                                      16
+ital, like irrigation, etc. that is now part of the plot of land. This is because
+the marginal product of capital at zero capital outlay can be allowed to be
+implicitly determined by past improvements made on the plot of land.4 That
+is why I have put the word intrinsic in quotation in the second sentence of
+this paragraph.
+
+
+
+               f’i(k), f’j(k)
+
+
+
+                                f’j(k)
+
+
+
+
+                                                  f’i(k)
+
+
+
+
+                                                                  k
+                   O                        kj*            ki *
+
+
+
+Figure 4: This figure depicts the marginal product of capital outlay on the
+i-th plot (solid line) and j-th plot (dashed line) of land. Note how there is a
+reversal of marginal productivity ranking of the two plots when we move from
+low to high capital outlays.
+
+    Using this idea, I will order plots i and j according to intrinsic quality as
+follows: I will say that plot i is of higher quality than plot j if fi0 (0) > fj0 (0),
+i.e. if the marginal product of capital at zero capital outlay is higher on
+plot i than on plot j. Since there are a finite number of plots, we can always
+arrange them in diminishing order of quality, as we have defined it here (with
+strict inequalities). Once we do so, we can renumber the plots and call plot 1
+the most fertile, plot 2 the next most fertile, and so on. I state this as the
+  4
+    Previous investment in land improvement would shift the whole marginal product
+curve upwards.
+
+
+                                         17
+assumption about the ordering of the intrinsic quality of plots of land.
+                                           0
+Assumption 2. f10 (0) > f20 (0) > · · · > fn−1 (0) > fn0 (0), where n = n(p) and
+p is the price of the agricultural commodity.
+
+    In the rest of the paper, the analysis of ground-rent will proceed in three
+steps. In the first step, I will derive expressions for ground-rent and its three
+components, DRI, DRII and AR, taking the capital outlays on each plot
+of land, ki , the price of corn, p, and the economy-wide average rate of profit,
+r, as exogenously given. In the second step, I will endogenize the capital
+outlay, ki , by positing profit-maximising behaviour of capitalist farmers. In
+the third, and final, step, I will close the model by endogenizing the price of
+corn, p, by allowing the interaction of demand and supply of corn to clear
+the market for corn. The economy-wide average rate of profit, r, will remain
+exogenous throughout the analysis.
+
+
+4     Ground-Rent With Exogenous Capital Out-
+      lays
+Taking the capital outlays on each plot of land, ki , the price of corn, p, and
+the economy-wide rate of profit, r, as exogenously given, I would like to
+determine the magnitude of ground-rent on each plot of land and decompose
+it into DRI, DRII and AR.
+
+4.1     Total Ground-Rent
+Since the price of corn is given by p, and the economy-wide rate of profit is
+denoted by r, I can define what Marx calls the ‘surplus profit’ on the i-th
+plot of land as pfi (ki ) − (1 + r)ki , where pfi (ki ) is the revenue actually earned
+and (1 + r)ki is the counterfactual revenue that would have been earned if the
+total capital outlay, ki , had earned the economy-wide average rate of profit.
+The key insight of Marx’ analysis of rent is that private ownership of land by
+the class of landlords - which he refers to as the monopoly of landed property
+- allows them to appropriate the surplus profit as ground-rent (Marx, 1993,
+Chapter 37).
+    Implementing the definition of ground-rent in my model, I see that its
+
+
+
+                                         18
+magnitude on the i-th plot of land, measured in units of corn, is given by
+
+                             (1 + r)ki Z ki 0         (1 + r)ki
+            GRi = fi (ki ) −          =    fi (k)dk −           .            (1)
+                                 p      0                 p
+
+Since fi (ki ) is the total output on the i-th plot with capital outlay, ki , and
+(1 + r)(ki /p) is revenue that would have been earned, in real terms, on the
+same capital employed elsewhere in the economy (since the economy-wide
+average rate of profit is r), the surplus profitR is given by the difference be-
+tween the two. Using the fact that fi (ki ) = 0ki fi0 (k)dk, which follows from
+assumption 1, and especially that fi (0) = 0, we then get the expression in
+(1).
+
+
+
+                f’i(k)
+
+
+
+                                              OG = AH = (1+r)/p
+                D
+                                              OE = HC = f’i(ki)
+
+
+
+
+                         Total Ground Rent
+                E                                       C
+
+                G                                       A
+                                                        H
+                                                                  k
+                 O                                     ki
+
+
+
+Figure 5: Ground rent in agriculture on the i-th plot of land measured in
+units of corn. The horizontal axis measures total capital outlay; the vertical
+axis measures the marginal output as a function of capital outlay, fi0 (k). The
+price of corn is p and the economy-wide rate of profit is r. Total ground rent
+on the i-th plot of land is given by the area DCAG.
+
+    We can use Figure 5 to build some intuition about ground-rent. In this
+figure, I have plotted the marginal product of capital outlay, fi0 (k), on the
+
+                                             19
+vertical axis against the amount of capital outlay, k, on the horizontal axis.
+The total amount of capital outlay on this plot of land is given by ki . Hence,
+total output of corn is given by the area under the marginal product curve,
+i.e. DCHO, which is the first term in (1). The area GAHO represents
+the amount of corn that would be needed to ensure the economywide rate
+of profit, r, on the total capital outlay, ki . This is the second term in (1).
+Hence, the total ground-rent on the i-th plot of land is represented by the
+area DCAG.
+    In writing the expression for total ground-rent in (1) and in constructing
+the corresponding visual representation in figure 5, I have implicitly assumed
+that fi0 (ki ) > (1 + r)/p for i = 1, 2, . . . , n. This assumption means that on
+each plot of land that is in use, the marginal product of capital outlay, fi0 (ki ),
+is greater than the opportunity cost of investing capital elsewhere in the
+economy, (1 + r)/p. This is a crucial assumption for the analysis of absolute
+rent and I will come back to it several times in the rest of the paper.
+
+4.2    Marginal-Capital Plot
+I would now like to decompose the magnitude of total rent given in (1) into
+two components: differential rent and absolute rent. To do so, I need to
+identify the ‘marginal’ unit of capital outlay, which is defined as the unit of
+capital outlay that is least productive, and then use this benchmark to define
+differential rent. Note that each plot of land has diminishing marginal pro-
+ductivity of capital outlay by Assumption 1. Hence, to identify the marginal
+capital, I just need to find the minimum of the marginal product on each
+plot of land at their given capital outlay levels. Recall that the amount of
+capital outlay on the i-th plot of land is given by ki . Hence, I can define the
+output associated with the marginal unit of capital as
+
+                        y m ≡ y m (p) =        min           fi0 (ki ),         (2)
+                                          i∈{1,2,...,n(p)}
+
+
+where y m is the marginal output associated with the least productive unit of
+capital outlay used among all plots of land. Note that y m is a function of p,
+the price of the agricultural commodity, because it is the minimum of fi0 (ki )
+where i ranges over {1, 2, . . . , n(p)}. Since n = n(p) is a function of p, y m is
+also a function of p. To make this explicit, we have specified y m = y m (p).
+    Let us identify this plot of land with the index m, where 1 ≤ m ≤ n(p),
+and call it the marginal-capital plot of land. Thus, the m-th plot of land
+
+                                          20
+has the lowest marginal product of capital outlay for the last unit of capital,
+              0
+i.e. y m = fm   (km ), among all the plots of land that are currently under
+cultivation. Note that, in general, m 6= n(p), i.e. the worst plot of land in
+terms of quality that has been identified in assumption 2 is not, in general,
+the plot of land with the ‘marginal’ unit of capital outlay.
+
+4.3    Differential and Absolute Rent
+Now that I have identified the minimum marginal product of capital, I can
+decompose total rent as,
+                             GRi = DRi + ARi ,                             (3)
+where the first component on the right hand side in (3) is total differential
+rent,                         Z       ki
+                      DRi (p) =            [fi0 (k) − y m (p)] dk,         (4)
+                                  0
+and the second component on the right hand side in (3) is absolute rent,
+                                      "                       #
+                                           (1 + r)
+                                            m
+                      ARi (p) = ki y (p) −         .                       (5)
+                                              p
+An important point to keep in mind is that both DRi and ARi are functions
+of p, the price of the agricultural commodity, and r, the economy-wide rate
+of profit. This is easy to see from (3) and (5).
+    To build intuition about the definitions of differential and absolute, we
+can turn to Figure 6. Total ground rent is represented by area DCAG.
+Differential rent is represented by the area DCBF (which is a representa-
+tion of (4), and absolute rent is represented by the area F BAG (which is a
+representation of (5).
+    The area DCBF is called differential rent because it represents the addi-
+tion of all the extra output produced on any plot of land over and above the
+benchmark level, y m (the minimum marginal product), i.e. sum of fi0 (k)−y m
+over all units of capital. This sum depends on productivity differences across
+plots of land arising both from its intrinsic productivity and from differences
+in magnitudes of capital outlay - the two together determine the marginal
+product of capital curve for any plot of land.
+    I define the difference between the total ground-rent (the area DCAG)
+and the total differential rent (the area DCBF ) as absolute rent. Alge-
+braically, this is given by (5) and visually this is represented by the area
+
+                                            21
+                f’i(k)
+
+                                OG = AH = (1+r)/p
+                                OF = HB = ym = mini f’i(ki)
+               D                OE = HC = f’i(ki)
+
+
+
+                         DR
+
+               E                                   C
+               F                                   B
+                         AR
+               G                                   A
+                                                   H
+                                                              k
+                   O                              ki
+
+
+
+Figure 6: Ground rent in agriculture on the i-th plot of land measured in
+units of corn. The horizontal axis measures total capital outlay; the vertical
+axis measures the marginal output as a function of capital outlay, fi0 (k). The
+price of corn is p and the economy-wide rate of profit is r. Total ground
+rent on the i-th plot of land is given by the area DCAG, differential rent by
+DCBF and absolute rent by F BAG.
+
+
+F BAG. I call this absolute rent because it is what remains after I have
+removed total differential rent from total ground-rent. By definition, it does
+not depend on differences of productivity across plots of land.
+   Let us think a little more about the definition of absolute rent. From (5),
+we see that the absolute rent is the product of two terms: (a) the level of
+capital outlay, ki , and (b) the difference between y m and (1 + r)/p. We know
+that y m is the minimum marginal product of capital across all plots of land
+and (1 + r)/p is what a unit of capital could earn, in real terms, if it were
+invested outside agriculture. Thus, for the existence of absolute rent, it is
+necessary that y m > (1 + r)/p.
+   Since there is large disagreement in the extant literature about absolute
+rent, let me discuss it in some more detail. Marx had conceived of absolute
+
+
+                                       22
+rent as the total rent earned on a new plot of land that is brought under cul-
+tivation to satisfy rising demand for corn (Marx, 1993, Chapter 45). Implicit
+in Marx’s analysis is the idea that the new land brought under cultivation
+is also the least fertile plot of land, a fact that has been emphasized by
+Fine (1979). In the extant literature, there are two interpretations for the
+existence of absolute rent.
+    According to one interpretation, the source of absolute rent is the rela-
+tively lower organic composition of capital in agriculture compared to the
+rest of the economy. Fine (1979, pp. 263) has an algebraic expression to
+capture this idea. Following this claim, if the organic composition of capital
+rises in the rest of the economy even as the organic composition of capital
+in agriculture remains unchanged, there should be an increase in absolute
+rent, as Marx (1993) claimed and Fine (1979) emphasized. In my model,
+this effect is easy to capture. The relative rise in the organic composition of
+capital in the rest of the economy ceteris paribus leads to a fall in the uniform
+rate of profit, r. From the expression in (5), we can see that this will lead to
+a rise in absolute rent if y m and p does not change.
+    Another interpretation of Marx’s texts point out that the source of abso-
+lute rent is the ‘monopoly power’ of the class of landlords (Ramirez, 2009).
+The class of landlords exercise their monopoly of ownership of land by with-
+holding land from the lease market unless they are assured absolute rent.5
+The mechanism for this is straightforward. By withholding land from the
+lease market, landlords can reduce the supply of corn and thereby ensure
+that the price of corn rises. The rise in the price of corn can then allow them
+to bargain for higher ground-rent, the extra being understood as absolute
+rent. In my model, this is easy to capture. From the expression in (5), we
+can see that if the price of corn rises ceteris paribus then (1 + r)/p will fall,
+and this will lead to a rise in absolute rent.
+    I would like to point out at this point that the model I have proposed in
+this paper is more general than existing work on Marx’s rent theory. This is
+because my model can accommodate both interpretations for the existence of
+absolute rent that have been previously offered by Marxist scholars, the low
+organic composition explanation and the monopoly power explanation. What
+both interpretations seem to have missed is that the existence of absolute rent
+depends crucially on the gap between the minimum marginal product, y m ,
+and the opportunity cost of capital outlay, (1+r)/p. As long as y m > (1+r)/p
+  5
+      I will explore another channel for the exercise of landlord power in the next section.
+
+
+                                              23
+there will be positive absolute rent; if y m = (1+r)/p there will be no absolute
+rent, no matter if agriculture has a lower organic composition of capital
+or if the class of landlords have monopoly power. This is precisely where
+the implicit assumption that fi0 (ki ) > (1 + r)/p becomes important. Since
+fi0 (ki ) > (1 + r)/p for i = 1, 2, . . . , n, this implies that the minimum of fi0 (ki ),
+i.e. y m , is also larger than (1 + r)/p. Hence, y m > (1 + r)/p. This ensures
+that there is positive absolute rent on each plot of land.
+
+4.4     Differential Rent I and II
+The second step of the decomposition is to break up total differential rent
+in (4) into differential rent of the first variety, DRI, and differential rent of
+the second variety, DRII. To do so, I will use the least productive plot,
+indexed by n according to assumption 2, as the benchmark to define DRIi .
+To implement this decomposition let us define a level of capital outlay on the
+i-th plot of land, ki∗ , such that the marginal product of capital outlay on the
+i-th plot of land at this level of capital outlay is exactly equal to the marginal
+                                                                           0
+product of capital on the least productive plot at zero capital outlay, fn(p) (0),
+i.e.
+                                 fi0 (ki∗ ) = fn(p)
+                                               0
+                                                    (0).                       (6)
+Assumption 1 and 2 guarantees that a positive value of ki∗ (p) always exists
+(as long as all plots in use have positive capital outlays). With this definition
+of ki∗ (p), I can define differential rent of the first variety as,
+                                   Z k∗ (p)
+                                        i
+                    DRIi (p) =                fi0 (k)dk − ki∗ (p) fn(p)
+                                                                   0
+                                                                        (0)
+                                    0
+                                   Z k∗ (p) h
+                                        i
+                                                                 i
+                               =               fi0 (k) − fn(p)
+                                                          0
+                                                               (0) dk.                (7)
+                                    0
+
+Note that assumption 2 ensures that DRIi (p) is positive. If one weakens
+assumption 2 and uses weak inequalities, then one will be ensured a nonneg-
+ative DRIi (p). Thus, we will always have DRIi (p) ≥ 0.
+    What is the intuition for the definition of DRIi (p)? Using the worst-
+quality plot of land as the benchmark, the definition is identifying all units
+of capital outlay on any plot of land that have higher marginal product, i.e.
+productivity, than the ‘intrinsic’ quality of the worst-quality plot (marginal
+product of capital of the least productive plot of land at zero capital outlay).
+When we add up all the additional output produced by the units of capital
+
+                                                24
+so identified, we get differential rent of the first variety, DRIi (p), as defined
+in (7). Thus, this definition captures Marx’s intuition that differential rent of
+the first variety arises due to differences in the quality (or fertility) of plots of
+land - the extensive margin of David Ricardo - with respect to a benchmark
+plot of land (the least productive plot). Using Figure 7, this definition would
+translate into identifying differential rent of first variety, DRIi (p), as the
+area DIJ.
+    I can now define the second component of differential rent as the difference
+of total differential rent and differential rent of the first variety, i.e.
+                              Z ki
+               DRIIi (p) =           [fi0 (k) − y m (p)] dk − DRIi (p) .         (8)
+                               0
+
+Using Figure 7, differential rent of second variety would be identified with the
+area IJCBF , which is the difference in total differential rent, DCBF , and
+                                                                            0
+differential rent of the first variety, DIJ. Since y m (p) ≤ fi0 (ki ) < fn(p)  (0),
+where the last (strict) inequality is true if ki > 0 for all plots, we can see that
+the area IJCBF will always be nonnegative. Hence, DRIIi (p) ≥ 0.
+    What is the intuition for DRIIi (p)? We have seen earlier that total differ-
+ential rent DRi (p), defined in (4), arises from a combination of productivity
+differences that come from differences in quality of plots of land and differ-
+ences in the magnitude of capital outlay. We have also seen that DRIi (p),
+defined in (7), arises from differences in quality of a plot with respect to
+the benchmark worst-quality plot of land. When we remove DRIi (p) from
+DRi (p), we are left with the component of differential rent that arises due
+to differences in magnitude of capital outlay. Hence, DRIIi (p), as defined
+in (8), captures Marx’s intuition that differential rent of the second vari-
+ety arises from differences in the magnitude of capital outlay - the intensive
+margin of David Ricardo.
+    I can now bring together the above discussion to see that Marx’s ideas
+about ground-rent, including his claim about its decomposition into three
+parts, can be established. Defining total ground-rent as the transformation
+of surplus profit, I have shown that it can be decomposed on any plot of land
+into differential rent of first variety, differential rent of second variety, and
+absolute rent, i.e.
+                  GRi (p) = DRIi (p) + DRIIi (p) + ARi (p) ,
+where GRi (p) is defined in (1), DRIi (p) is defined in (7), DRIIi (p) is defined
+in (8), and ARi (p) is defined in (5). It is important to note that not only
+
+                                           25
+                f’i(k)
+                                  OD = f’i(0)
+                                  OI =KJ = f’n(0)
+                                  OE = HC = f’i(ki)
+               D                  OF = HB = ym = mini fi’(ki)
+                                  OG = HA = (1+r)/p
+
+                         DRI
+               I                             J
+
+
+               E         DRII                      C
+               F         AR                        B
+               G                                   A
+                                         K         H
+                                                                k
+                   O                      k i*    ki
+
+
+
+Figure 7: Ground rent in agriculture on the i-th plot of land measured in
+units of corn. The horizontal axis measures total capital outlay; the vertical
+axis measures the marginal output as a function of capital outlay, fi0 (k). The
+price of corn is p and the economy-wide rate of profit is r. Total ground
+rent on the i-th plot of land is given by the area DCAG, differential rent by
+DCBF and absolute rent by F BAG. DRIi is given by DJI, and DRIIi by
+IJCBF .
+
+
+the total ground-rent, but each component of ground-rent as well, depends
+on the price of the agricultural commodity, p.
+
+4.5    Two Special Plots of Land
+The analysis of rent presented above uses two special plots of land as refer-
+ence plots, the m-th plot (the worst capital plot), and the n-th plot of land
+(the worst quality plot of land, according to the convention captured in As-
+sumption 2). What can we say about the components of rent on these two
+reference plots of land?
+                                      0
+    On the worst capital plot, y m = fm (km ), i.e. y m is the marginal product
+on the worst capital plot. The decomposition of total rent on the worst capital
+
+                                       26
+plot is depicted in Figure 8. There is no qualitative difference between the m-
+th plot and any other plot of land. Much like on any other plot, total rent on
+the m-th plot is also the sum of DRI, DRII and AR. A more interesting case
+is presented by the worst quality plot, i.e. the plot indexed with n = n(p).
+    On the worst quality plot, which is depicted in Figure 9, the graph of the
+marginal product curve starts at fn0 (0). From (6), we see that for the n-th
+plot, kn∗ = 0. This implies, using the expression in (7), that DRIn = 0. By
+the concavity of the pseudo-production function, we have fn00 (.) < 0. Hence
+DRIIn > 0, which is given by the area DCBF in Figure 9. We also know
+that y m > (1 + r)/p, which implies that ARn > 0 (depicted as the area
+F BAG in Figure 9). Thus, on the worst quality plot, total rent is composed
+of DRII and AR; there is no DRI. This is an important conclusion and is
+worth commenting on. Marx thought that total rent on the worst quality
+plot of land could be identified with absolute rent, i.e. there would be no
+differential rent on the worst quality plot (Marx, 1993, Chapter 45). My
+analysis shows that that is not correct. On the worst quality plot of land,
+total rent is composed of both AR and DRII. Since DRII arises from the
+concavity of the pseudo-production function, i.e. the diminishing marginal
+product of capital outlay, Marx’s conclusion seems to derive from his ignoring
+this latter factor when analyzing rent on the worst quality plot of land.
+    There is a deeper problem in the analysis presented so far. I have com-
+pletely ignored the decision making process of the capitalist farmers. In
+more concrete terms, by assuming a given amount of capital outlay on each
+plot of land, I have ignored the process and implications of the behaviour of
+capitalist farmers. This is a serious shortcoming because, once we allow a
+reasonable behaviour of capitalist farmers, there will be a serious implication
+for the analysis of rent. But before I turn to that, let me use an example to
+illustrate my model.
+
+
+5    Ground-Rent With Endogenous Capital Out-
+     lays
+Thus far, the analysis of ground-rent has treated the amount of capital out-
+lays on each plot of land as exogenously given. I would now like to endogenize
+capital outlay by asking: how much capital would be advanced on any plot
+of land? I provide a simple answer. On each plot of land, capitalist produc-
+
+
+                                      27
+                 f’m(k)
+
+
+                                              OG = AH = (1+r)/p
+                D                             OE = HC = f’m(km)
+                                              OI = f’n(0)
+                          DRI
+                I                        J
+
+                          DRII
+
+                E                                    C
+                          AR
+                G                                    A
+                                                     H
+                                                                  k
+                    O                   k*m         km
+
+
+
+Figure 8: Ground rent in agriculture on the m-th plot (i.e. worst capital plot)
+of land measured in units of corn.
+
+
+ers will choose the amount of capital outlay that will maximize the surplus
+profit they can earn vis-a-vis what they can earn if they were to employ
+their capital elsewhere in the economy. The competitive process in capitalist
+economies will force capitalist farmers to choose this level of capital outlay.
+Let us understand why and then see what this implies for absolute rent.
+
+5.1    There is No Absolute Rent
+Since the economy-wide rate of profit is exogenously given to be r, capitalist
+producers can always earn the total revenue of (1 + r)ki by employing their
+capital, ki , elsewhere in the economy. If, on the other hand, they choose to
+employ the capital in agricultural production on the i-th plot of land, then
+they can expect to earn total revenue of pfi (ki ), if the price of the agricultural
+commodity is p. If total rent is a lump-sum monetary payment given by
+GRi , then the amount of revenue they can expect to earn by employing
+their capital in agriculture is pfi (ki ) − GRi . Hence, the extra revenue a
+capitalist farmer can earn by investing her capital in agriculture is given by
+
+                                        28
+                 f’n(k)
+
+                                       OG = AH = (1+r)/p
+                                       OF = HB = ym = mini f’i(ki)
+                D                      OE = HC = f’n(kn)
+                                       OD = f’n(0)
+
+
+
+                          DRII
+
+                E                                        C
+                F                                        B
+                          AR
+                G                                        A
+                                                         H
+                                                                     k
+                  O                                      kn
+
+
+
+Figure 9: Ground rent in agriculture on the n-th plot (i.e. worst quality plot)
+of land measured in units of corn. Note that DRI is zero.
+
+pfi (ki ) − GRi − (1 + r)ki . I posit that capitalist producers choose the level
+of capital outlay, ki , on the i-th plot to maximize this surplus, i.e. her choice
+problem on the i-th plot of land can be represented as follows:
+
+                          max pfi (ki ) − GRi − (1 + r)ki .
+                           ki
+
+The first order condition of this maximisation problem gives us the optimal
+choice of capital outlay as ki∗ , where,
+                                                 1+r
+                                  fi0 (ki∗ ) =       .                          (9)
+                                                  p
+This condition means that on the i-th plot of land, the amount of capital
+outlay that will be chosen by profit-maximising capitalist farmers will be such
+that the marginal product of capital outlay will be equalized to (1 + r)/p. If
+she were to choose a level of capital outlay, ki , that is lower than ki∗ , then the
+marginal product of capital would be higher than (1 + r)/p. By increasing
+capital outlay by a small magnitude, ∆ki , the capitalist farmer would be able
+
+                                           29
+to increase her profit income because
+
+                            pf 0 (ki )∆ki > (1 + r)∆ki .
+
+Hence, a level of capital outlay that is lower than ki∗ would not be chosen by
+a capitalist farmer. On the other hand, if she chose a level of capital outlay,
+ki , that was higher than ki∗ , then the marginal product of capital would be
+lower than (1 + r)/p. Thus, the capitalist farmer could increase her surplus
+by moving a small amount of her capital, ∆ki , out of agriculture because
+
+                            pf 0 (ki )∆ki < (1 + r)∆ki .
+
+Hence, a level of capital outlay that is higher than ki∗ would not be chosen by
+a capitalist farmer. This implies that, given competitive pressures operating
+in capitalist economies, a capitalist farmer would choose her level of capital
+outlay which would ensure that the marginal product of capital was exactly
+equal to (1 + r)/p.
+    Note that the same economy-wide average rate of profit, r, and the same
+market price of corn, p, are faced by capitalist farmers on each plot of land.
+Since competitive pressures force capitalist farmers to behave in the same
+way on each plot of land, the marginal product of capital will be equalized
+at (1 + r)/p on each plot of land.
+    The condition represented in (9) has an important implication for the
+decomposition of ground-rent. Turning to the previous definition of the
+marginal-capital plot of land in (2), we can see that once we allow capi-
+talist farmers to determine the level of capital outlays using the principle
+of surplus maximization, all plots become marginal-capital plots of land.
+This is because fi0 (ki ) is equal for each plot. Hence, y m = fi0 (ki ) for each
+i ∈ {1, 2, . . . , n(p)}. Using (9), we see further that y m = fi0 (ki ) = (1 + r)/p.
+From the expression in (5) it follows that absolute rent, ARi , is zero. In
+terms of Figure 6, this means that OF = OE = OG, so that ARi = 0.
+    As I have noted above, in the extant literature, there are two interpreta-
+tions of Marx’s arguments about the existence of absolute rent. One strand
+of Marxist literature argues, in line with Marx’s argument in Chapter 45 of
+Volume III of Capital, that the source of absolute rent is the low organic com-
+position of capital in agriculture relative to the rest of the economy (Fine,
+1979; Fine and Filho, 2010; Fine, 2019). Another strand, also using textual
+evidence in its favour, argues that absolute rent arises from the monopoly
+of the class of landlords (Ramirez, 2009). The analysis in this section shows
+
+                                         30
+Figure 10: Decomposition of ground rent in agriculture on the i-th plot of
+land, measured in units of corn, when rent is specified as a lump-sum mone-
+tary payment. In this case, there is no absolute rent. Total ground-rent is the
+sum of differential rent of first variety (DRI) and differential rent of second
+variety (DRII).
+
+
+that both interpretations are incorrect once we allow capitalist farmers to
+choose the level of capital outlay on their plots of land.
+      On the one hand, if the organic composition of capital were to rise in the
+rest of the economy relative to agriculture, as used in the argument in Fine
+(1979), then the uniform rate of profit, r, would fall to r0 , say. Capitalist
+farmers would then choose the new level of capital outlay to take this into
+account. Their choice would ensure that the marginal product of capital,
+fi0 (ki ), is equal to (1 + r0 )/p. Hence, absolute rent would still be zero. The
+relatively lower organic composition of capital in agriculture does not gener-
+ate any absolute rent. On the other hand, if the class of landlords use their
+monopoly power to withhold land from the lease market, this will raise the
+price of corn from p to p0 , say. Capitalist farmers would then choose the
+level of capital outlay after taking this into account. Their choice will ensure
+
+
+                                       31
+that fi0 (ki ) is equal to (1 + r)/p0 . Thus, absolute rent would still be zero.
+Monopoly power of landlords cannot give rise to absolute rent, either.
+    I have visually represented the configuration of ground-rent and its de-
+composition, when capital outlay is chosen by capitalist farmers to maximize
+their surplus, in Figure 10. The total amount of ground-rent on plot i is rep-
+resented by the area DCE. This is, as before, the surplus profit. DRIi (p)
+is represented, just like in Figure 5, by the area DJI. This is the part of
+ground-rent that can be attributed to quality differentials across plots of
+land. DRIIi (p) is now represented by the area IJCE. There is no AR.
+Thus, we now have a two-part decomposition of ground-rent on the i-th plot
+as
+                         GRi (p) = DRIi (p) + DRIIi (p) ,
+where                                   Z k∗ (p) h
+                                             i
+                                                                        i
+                        DRIi (p) =                   fi0 (k) − fn(p)
+                                                                0
+                                                                     (0) dk,                  (10)
+                                         0
+and                                Z ki "                     #
+                                                    1+r
+                  DRIIi (p) =             fi0 (k) −               dk − DRIi (p) .             (11)
+                                    0                     p
+   Let us now determine the components of ground-rent on the two plots.
+On both plots of land, we know that the marginal product of capital is exactly
+equal to (1 + r)/p. Hence, y m , the minimum marginal product of capital at
+the given levels of capital outlay on the two plots is exactly equal to (1+r)/p.
+Using (5), we see, therefore, that the absolute rent is equal to zero on both
+plots of land.
+
+5.2      Can Absolute Rent be Positive?
+Let me now return to the condition that I had implicitly assumed when
+analysing rent with exogenous capital outlays: fi0 (ki ) > (1 + r)/p. This
+assumption was crucial for generating positive amount of absolute rent on
+the i-th plot of land (see equation 5).6 The importance of this assumption
+can be visually seen from Figure 6 and 7. This assumption implies that
+there is a ‘gap’ between the marginal product of capital outlay, fi0 (ki ), and
+the opportunity cost of capital outlay, (1 + r)/p. Thus, only when there is a
+gap between fi0 (ki ) and (1 + r)/p, can the i-th plot generate positive AR. If
+   6
+     I had assumed that fi0 (ki ) > (1 + r)/p for i = 1, 2, . . . , n. This ensured that y m , which
+is the minimum fi0 (ki ) across the n plots, was also larger than (1 + r)/p.
+
+
+                                                 32
+there are mechanisms available in a capitalist economy that can put a wedge
+between the marginal product of capital outlay and the opportunity cost of
+capital outlay, then it can generate positive absolute rent.
+    The two main contenders for explaining absolute rent are the relatively
+low organic composition of capital and the class power of landlords. In a
+previous sub-section, I have argued that a relatively low organic composition
+of capital cannot generate any wedge between the marginal product of capital
+outlay and the opportunity cost of capital outlay. Hence, a relatively low
+organic composition of capital cannot be the source of absolute rent. I have
+also argued that if we understand the exercise of the monopoly power of
+landlords as consisting in their ability to withhold land from the lease market,
+even then we will not have any absolute rent. Now, I would like to investigate
+another channel for the exercise of the class power of landlords: influencing
+taxation of capital by the State.
+    Suppose the state taxes capital outlays at the rate of t > 0. Then, the
+capitalist farmers choice problem would become
+
+                     max pfi (ki ) − GRi − tki − (1 + r)ki ,
+                       ki
+
+so that the optimal choice of capital outlay would satisfy the condition that
+                                             1+r+t
+                              fi0 (ki∗ ) =         .                         (12)
+                                               p
+Since t > 0, this would ensure that fi0 (ki∗ ) > (1 + r)/p. Hence, using (5), we
+can see that there is positive absolute rent. Moreover, we can also see that the
+absolute rent is just be the tax revenue collected by the state: ARi = tki∗ /p. If
+the class of landlords were strong enough to ensure that the state redistributes
+the tax revenue, tki∗ /p, to them, then we could consider it to be absolute rent.
+Thus, there seems to be some justification for the claim that class power of
+landlords can generate absolute rent. But this is only apparently correct.
+                                                                    ∗          ∗
+    To see the problem with the class power argument, let ki,T         and ki,N  T
+denote the optimal capital outlays on the i-th plot of land with and with-
+out taxation of capital outlay, respectively. The first order condition in (9)
+               ∗         0 ∗
+determines ki,N  T as, fi (ki,N T ) = (1 + r)/p; and the first order condition in
+                    ∗
+(12) determines ki,T   as fi0 (ki,T
+                                ∗
+                                    ) = (1 + r + t)/p. The concavity of fi (.) and
+                                        ∗       ∗
+the fact that t > 0 implies that ki,N     T > ki,T . Thus, when there is taxation
+of capital outlays, it will lead to a lower level of capital outlay. This would,
+in turn, lead to a loss of ground-rent for the class of landlords. This loss is
+
+                                         33
+represented by the area JCF in Figure 11. Therefore, it seems likely that
+if the class of landlords were strong enough to impact public policy, they
+would in fact push for removing the taxation of capital outlays, rather than
+ensuring the redistribution of the tax revenue towards themselves (and call
+it absolute rent). We already know, of course, that if there is no taxation of
+capital outlays, then absolute rent would be zero.
+    In the mid-19th century, when Marx turned his attention to the prob-
+lem of absolute rent, feudal obligations were still enforced in many parts of
+Germany. One could perhaps think of these feudal obligations as taxes on
+capital, which would then explain why Marx theorised about absolute rent.
+It might also be argued that once landlords became capitalist revenue max-
+imizers, they realized that the feudal dues were in fact reducing the total
+ground-rent by creating a wedge between the marginal rate of profit in in-
+dustry and agriculture. This might have been one of the important factors
+that led to the outlawing of feudal obligations.7 In contemporary capitalist
+societies, where capitalists are the dominant element in the ruling class, there
+do not seem to be any ground for the existence of absolute rent.
+
+
+6         Price of Corn
+So far I have taken the price of the agricultural commodity is given. To
+complete the analysis, I need to investigate how this price is determined. To
+do so I look at the market for corn and consider factors that affect demand
+and supply. Suppose the demand function for corn is given by D (p; γ), where
+∂D/∂p < 0, p is the price of corn, and γ captures factors like population
+growth, urbanization, regulatory aspects of the corn market, etc. that shift
+the whole demand curve. The total supply of corn can be expressed as
+                                             n(p)
+                                             X
+                                   S (p) =          fi (ki (p)) .          (13)
+                                             i=1
+
+Note that total supply of corn is an upward sloping function of price for two
+reasons. First, the actual number of plots in use for agricultural production
+is a function of p, i.e. n = n(p). I had commented on this assumption right
+at the outset, and it is now clear why this was important. The dependence of
+the number of plots of land in use is a function of the price of corn because as
+    7
+        I would like to thank Duncan Foley for pointing this out.
+
+
+                                              34
+                 f’i(k)
+                                          Ki,T*: optimal choice when
+                                          capital outlay is taxed
+                D
+                                          Ki,NT*: optimal choice when
+                                          no taxation of capital outlay
+
+
+                I                                 J
+
+
+
+                E                                           C
+                                              F
+
+
+
+                                              K             H
+                                              Ki,T*        Ki,NT*            k
+                    O
+
+
+
+Figure 11: A comparison of the total ground-rent on the i-th plot with and
+without taxation of capital outlay.
+
+
+the price of corn rises, it makes worse plots of land profitable to bring under
+cultivation. Second, on any plot in use, we know that ki is an (increasing)
+function of p, so that output is an (increasing) function of price, i.e. fi (ki (p)).
+Hence, total supply, S (p) is an (increasing) function of p.
+    The equilibrium price of corn is the level of p = p∗ which brings supply
+and demand into balance, i.e.
+                                                  n(p∗ )
+                              ∗          ∗
+                                                           fi (ki (p∗ )) .
+                                                  X
+                          D (p ; γ) = S (p ) ≡                                   (14)
+                                                  i=1
+
+To ensure that my model is properly closed, let me conduct a simple counting
+argument. On the one hand, when there is no taxation of capital outlays,
+the model is captured by (12) and (14). There are n + 1 equations because
+(9) gives us n equations and (14) gives us one more. The model has n + 1
+endogenous variables, k1 , . . . , kn , p∗ , and one exogenous variables, r. Hence,
+the equation system can be solved to arrive at the equilibrium magnitudes of
+all the endogenous variables. On the other hand, when the state taxes capital
+
+                                             35
+outlays, the model is captured by (12) and (14). There as n + 1 equations
+and n + 2 endogenous variables, k1 , . . . , kn , t, p∗ . Once we choose a value of
+t = t∗ , the model is closed and we can solve for all the endogenous variables.
+    I can now present the condition under which any plot of land will be in
+use in a capitalist economy with landed property, i.e. private ownership of
+land by the class of landlords. In such a context, any plot of land will be in
+use if it can be leased in profitably by a capitalist farmer. It can be leased in
+profitably only when it pays a positive amount of ground-rent to the landlord
+in addition to ensuring the uniform rate of profit for capital investment. Let
+us consider the most extreme case when the demand for corn is so low that
+even the ‘best’ plot of land cannot be profitably used. In this situation, there
+will be no corn production and hence there will be zero ground-rent. This
+immediately identifies the minimum threshold for the price, if rent is to be
+positive, as
+                                         1+r
+                                   p∗∗ = 0 ,                                   (15)
+                                         f1 (0)
+where, it is to be recalled from Assumption 2 that plot 1 is the best quality
+plot. If population growth, urbanization, etc. leads to growth of demand for
+the agricultural product such that p > p∗∗ , this will bring land under culti-
+vation. As soon as any land is brought under cultivation, this will generate
+positive ground-rent. As demand rises further, progressively more (worse
+plots) land will come under cultivation and total ground-rent will increase.
+
+
+7     Conclusion
+In this paper I have offered a simple mathematical framework to conceptual-
+ize Marx’s ideas about ground-rent. In developing the analysis of this paper,
+I have extended the discussion in two recent, noteworthy attempts to clarify
+Marx’s theory of ground-rent, Basu (2018, 2021) and Das (2018). Previous
+attempts to discuss Marx’s theory of ground-rent has been marked by dis-
+agreements and confusions partly because of the difficulty in clearly defining
+the meaning of the terms involved in the discussion, especially the compo-
+nents of ground-rent (Fine, 1979; Ramirez, 2009; Fine and Filho, 2010). In
+this respect, Basu (2018) and Das (2018) advanced the literature by try-
+ing to clearly specify Marx’s ideas, avoid unnecessary exegetical debate, and
+formalize the ideas in simple mathematical models.
+    In this paper, I have extended the analysis further by endogenising the
+
+                                        36
+capital outlay on each plot of land using a simple and intuitive profit max-
+imising principle to model the behaviour of capitalist farmers. This simple
+extension has far reaching conclusions. My analysis shows that total ground-
+rent can be decomposed into differential rent of the first variety, differential
+rent of the second variety and absolute rent only when capital outlays are
+taken to be exogenously given. As soon as we endogenize capital outlays
+using the principle of profit maximisation, the decomposition of ground-rent
+changes. While we always have differential rent of the first and second va-
+rieties, the existence of absolute rent now depends on whether the marginal
+product of capital outlay across all plots of land is greater than the oppor-
+tunity cost of investing capital outside agriculture. In general, competitive
+pressure will force capitalist farmers to be profit maximizers. When capital-
+ist farmers base their decision about how much to invest on a plot of land so
+as to maximize their surplus, they will choose a level of capital outlay that
+equates the marginal product of capital outlay and the opportunity cost of
+investing capital in agriculture. Thus, absolute will be zero. I have argued
+in this paper that neither a relatively low organic composition of capital in
+agriculture nor the class power of landlords can, in general, ensure positive
+absolute rent.
+
+
+References
+M. Ball. Differential rent and the role of landed property. International
+ Journal of Urban and Regional Research, 1:380–403, 1977.
+
+Deepankar Basu. The Logic of Capital: An Introduction to Marxist Eco-
+  nomics. Cambridge University Press, 2021. Forthcoming.
+
+Deepankar Basu. Marx’s analysis of ground-rent: Theory, examples and ap-
+  plications. Working Paper 2018-04, Department of Economics, University
+  of Massachusetts Amherst, 2018.
+
+Debarshi Das. A model of the marxist rent theory. Working Paper 2018-10,
+  Department of Economics, University of Massachusetts Amherst, 2018.
+
+Ben Fine. On Marx’s Theory of Agricultural Rent. Economy and Society, 8
+  (3):241–278, 1979.
+
+
+
+                                      37
+Ben Fine. Marx’s rent theory revisited? landed property, nature and value.
+  Economy and Society, 48(3):450–461, 2019.
+
+Ben Fine and Alfredo Saad Filho. Marx’s Capital. Pluto Press, fifth edition,
+  2010.
+
+A. Haila. The theory of land rent at the crossroads. Environment and
+  Planning D: Society and Space, 8(3):275–296, 1990.
+
+Heinz D. Kurz. Rent theory in a multisectoral model. Oxford Economic
+  Papers, 30(1):16–37, 1978.
+
+E. Mandel. Marxist Economic Theory. Merlin Press, London, UK, 1962.
+
+Karl Marx. Capital: A Critique of Political Economy, Volume III. Penguin,
+ 1993. (First published in 1894).
+
+Luigi L. Pasinetti. Lectures on the Theory of Production. Columbia Univer-
+  sity Press, New York, NY, 1977.
+
+M. D. Ramirez. Marx’s theory of ground rent: A critical assessment. Con-
+ tributions to Political Economy, 28(1):71–91, 2009.
+
+Callum Ward and Manuel B. Aalbers. Virtual special issue editorial essay:
+  ‘The shitty rent business’: What’s the point of land rent theory? Urban
+  Studies, 53(9):1760–1783, 2016.
+
+
+
+
+                                    38
+
